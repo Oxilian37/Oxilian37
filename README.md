@@ -35,10 +35,7 @@
 
 ### 📊 Mes Statistiques GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Oxilian37&show_icons=true&theme=tokyonight" alt="Statistiques de Lilian" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oxilian37&layout=compact&theme=tokyonight" alt="Top Langages" width="48%" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Oxilian37&theme=tokyonight)](https://github.com/Oxilian37)
 
 ---
 
