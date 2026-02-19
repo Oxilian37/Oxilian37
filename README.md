@@ -1,7 +1,7 @@
 <h1 align="center">Salut, moi c'est Lilian Jautrou ! 👋</h1>
 
 <p align="center">
-  <em>Étudiant en 1ère année d'informatique à l'ESEO | Futur Alternant en IA & Machine Learning</em>
+  <em>Étudiant en 1ère année d'informatique à l'ESEO</em>
 </p>
 
 ---
@@ -10,7 +10,7 @@
 
 * 🎓 Je suis actuellement étudiant en **1ère année d'informatique à l'ESEO**.
 * ☕ Je me concentre en ce moment sur l'apprentissage approfondi de **Java**.
-* 🚀 **Objectifs pour l'année prochaine :** Je suis à la recherche d'une **alternance** et je vais débuter mon apprentissage dans le domaine passionnant de l'**IA et du Machine Learning**.
+* 🚀 **Objectifs pour l'année prochaine :** Je suis à la recherche d'une **alternance** en tant que Dev Web/Application et si possible aspect IA/Data.
 * 🎸 En dehors des lignes de code, j'aime jouer de la **guitare**, faire du **sport** et jouer aux **jeux vidéos**.
 
 ---
