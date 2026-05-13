@@ -33,9 +33,11 @@
 
 ---
 
-### 📊 Mes Statistiques GitHub
+### 📊 Mes Projets de Cours
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Oxilian37&theme=tokyonight)](https://github.com/Oxilian37)
+- Petit Projet Java (Logiciel Gestion Mediathèque) : [MediaStock](https://github.com/toto49/MediaStock)
+- Mini App Décentralisée Intro Web3 : [TaskManager](https://github.com/Oxilian37/AppCenter-Blockchain)
+- Projet Final Java (ERP): [Steeve Jobs](https://github.com/toto49/steevejobs (En cours))
 
 ---
 
