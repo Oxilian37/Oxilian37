@@ -8,9 +8,9 @@
 
 ### 👨‍💻 À propos de moi
 
-* 🎓 Je suis actuellement étudiant en **1ère année d'informatique à l'ESEO**.
-* ☕ Je me concentre en ce moment sur l'apprentissage approfondi de **Java**.
-* 🚀 **Objectifs pour l'année prochaine :** Je suis à la recherche d'une **alternance** en tant que Dev Web/Application et si possible aspect IA/Data.
+* 🎓 Je suis actuellement étudiant en alternance en **2eme année d'informatique à l'ESEO**.
+* ☕  Je me concentre en ce moment sur l'apprentissage approfondi de **Java**.
+* 🚀 Je suis développeur en alternance chez Kelio pour 2ans
 * 🎸 En dehors des lignes de code, j'aime jouer de la **guitare**, faire du **sport** et jouer aux **jeux vidéos**.
 
 ---
@@ -43,6 +43,6 @@
 
 ### 📫 Me contacter
 
-N'hésitez pas à me contacter pour discuter d'opportunités d'alternance !
+N'hésitez pas à me contacter
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lilian-jautrou-42b254208)
