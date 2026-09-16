@@ -1,7 +1,7 @@
 <h1 align="center">Salut, moi c'est Lilian Jautrou ! 👋</h1>
 
 <p align="center">
-  <em>Étudiant en 1ère année d'informatique à l'ESEO</em>
+  <em>Étudiant en 2eme année d'informatique à l'ESEO</em>
 </p>
 
 ---
